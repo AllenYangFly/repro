@@ -7,23 +7,23 @@
 
 * JS
   * [JS秘密花园]()
-  *[内置对象及方法]()
-  *[对象继承N方法]()
-  *[创建对象的N种方法]()
-  *[创建函数的N种方法]()
-  *[闭包]()
-  *[this]()
-  *[call，apply，callee，caller]()
-  *[函数curry]()
+  * [内置对象及方法]()
+  * [对象继承N方法]()
+  * [创建对象的N种方法]()
+  * [创建函数的N种方法]()
+  * [闭包]()
+  * [this]()
+  * [call，apply，callee，caller]()
+  * [函数curry]()
 
-  *DOM：
-    *[事件冒泡、事件捕获、事件target]()
-  *BOM：暂时未想到
+  * DOM：
+    * [事件冒泡、事件捕获、事件target]()
+  * BOM：暂时未想到
 
-  *es6:
-  [promise、generater、async、awaite用法，异步，回调地狱：]
-  *[arrow function]()
-  *[import export]()
+  * es6:
+  * [promise、generater、async、awaite用法，异步，回调地狱：]
+  * [arrow function]()
+  * [import export]()
 
 
 ## CSS
