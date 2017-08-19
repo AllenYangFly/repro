@@ -64,7 +64,7 @@
 
 
 * 算法与数据结构:
-  * [五种排序：冒泡、插入、选择(堆排序)、归并、快排](https://github.com/AllenYangFly/repro/issues/1)
+  * [五种排序：冒泡、插入、选择(堆排序)、归并、快排](https://github.com/AllenYangFly/codeAnywhere/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%8E%92%E5%BA%8F.js)
   * [快排稳定化]()
   * [去重]()
   * [查找]()
