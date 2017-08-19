@@ -1,6 +1,12 @@
-## JS
-JS秘密花园
-内置对象及方法:
+# 整理一下
+
+> 折腾过各种博客，在线笔记，最后发现还是github开issue写起来最爽。这里是我整理的前端知识点，哪位仁兄如果有需要可以直接fork，顺便给个star。
+
+目录
+
+* JS
+  * [JS秘密花园]()
+  *[内置对象及方法]()
 Object所有方法: 对象的遍历方式  对象与数组转换
 Array所有方法： 数组去重
 regxe所有方法：给出一个写出对应的匹配
@@ -8,22 +14,22 @@ string所有方法：字符串去重，具体应用
 Date所有方法：一个月多少天
 Math所有方法
 
-对象继承N方法
-创建对象的N种方法
-创建函数的N种方法
-闭包
-this
-call，apply
-callee，caller
-函数curry
+  *[对象继承N方法]()
+  *[创建对象的N种方法]()
+  *[创建函数的N种方法]()
+  *[闭包]()
+  *[this]()
+  *[call，apply，callee，caller]()
+  *[函数curry]()
 
-DOM：事件冒泡、事件捕获、事件target
-BOM：暂时未想到
+  *DOM：
+    *[事件冒泡、事件捕获、事件target]()
+  *BOM：暂时未想到
 
-es6:
-异步，回调地狱：promise、generater、async、awaite用法
-arrow function
-import export
+  *es6:
+  [promise、generater、async、awaite用法，异步，回调地狱：]
+  *[arrow function]()
+  *[import export]()
 
 
 ## CSS
