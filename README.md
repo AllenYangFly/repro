@@ -27,6 +27,7 @@
   * [import export]()
   * DOM：
     * [事件冒泡、事件捕获、事件target]()
+    * [移动端事件和click延迟问题]()
   * BOM：暂时未想到
   * [localstorage、seesionsorage、cookie]
   
@@ -45,6 +46,9 @@
   * [css3新增选择器]()
   * [flex]()
   * [选择器优先级]()
+  * [viewport]()
+  * [移动端rem，em，百分比，vw，vh的圣战]()
+  * [选择器优先级]()
   * [POSTCSS、SASS]()
   * [link 和 @import的异同]()
 
@@ -110,7 +114,7 @@
 * 新技术：
   * [PWA]()
   * [SSR NEXT、NUXT：压测 qps]()
-  * [离线存储]()
-  
+  * [离线存储(mainfest)]()
+  * [本地存储(SQLLite)]
   
  * 杂篇
