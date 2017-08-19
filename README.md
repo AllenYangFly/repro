@@ -113,7 +113,7 @@
 
 * 新技术：
   * [PWA]()
-  * [SSR NEXT、NUXT、压测、qps]()
+  * [SSR、NEXT、NUXT、压测、qps]()
   * [离线存储mainfest]()
   * [本地存储SQLLite]()
   
