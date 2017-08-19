@@ -21,6 +21,7 @@
   * [this]()
   * [call，apply，callee，caller]()
   * [函数curry]()
+  * [setTimeOut 和 setInterval 浏览器even loop]
   * es6:
   * [promise、generater、async、awaite用法，异步，回调地狱：]()
   * [arrow function]()
