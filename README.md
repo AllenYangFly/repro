@@ -58,6 +58,7 @@
   * [loading小菊花]()
   * [1px边框]()
   * [transform]()
+  * [translate]()
   * [inline元素浮动]()
   * [flex -> Grid]()
   * [选择器优先级]()
