@@ -22,7 +22,8 @@
   * [this]()
   * [prototype、_proto_]
   * [call，apply，callee，caller]()
-  * [JS作用域链、变量提升]()
+  * [JS作用域链、变量提升(函数、变量同名)]()
+  * [JS的解析过程]()
   * [函数curry]()
   * [setTimeOut 和 setInterval 浏览器even loop]
   * es6:
@@ -32,10 +33,11 @@
   * DOM：
     * [IE事件机制]()
     * [事件冒泡、事件捕获、事件target]()
+    * [阻止事件冒泡]()
+    * [阻止默认行为]()
     * [移动端事件和click延迟问题]()
     * [增删改查]()
     * [JS注册事件的几种方式]()
-    * []()
   * BOM：暂时未想到
   * [localstorage、seesionsorage、cookie]
   
@@ -45,6 +47,7 @@
  
  
 * CSS
+  * [浏览器的解析过程]()
   * [重排、重汇]()
   * [css3新增选择器]()
   * [两栏布局、双飞翼、圣杯]()
@@ -121,6 +124,7 @@
   * [react（fiber）、redux、redux-saga]()
   * [vue、axios]()
   * [双向绑定的实现]()
+  * [router的实现原理]()
   * [react如何渲染出DOM，事件绑定]()
   * [redux的实现原理]
   * [mvvm、mvc]()
