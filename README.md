@@ -38,6 +38,7 @@
     * [移动端事件和click延迟问题]()
     * [增删改查]()
     * [JS注册事件的几种方式]()
+    * [求各种width、offset距离]()
   * BOM：暂时未想到
   * [localstorage、seesionsorage、cookie]
   
