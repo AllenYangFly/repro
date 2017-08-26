@@ -109,6 +109,8 @@
   * [react（fiber）、redux、redux-saga]()
   * [vue、axios]()
   * [双向绑定的实现]()
+  * [react如何渲染出DOM，事件绑定]()
+  * [redux的实现原理]
   * [mvvm、mvc]()
   * [react和vue的区别]()
 
@@ -123,3 +125,5 @@
 * 杂篇:
   * [单元测试]()
   * [node、react、vue中的单元测试]()
+  * [答题路线]()
+  * []
