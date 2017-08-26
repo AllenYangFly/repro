@@ -23,8 +23,8 @@
   * [this]()
   * [prototype、_proto_]
   * [call，apply，callee，caller]()
-  * [JS作用域链、变量提升(函数、变量同名)]()
-  * [JS的解析过程]()
+  * [JS作用域链、变量提升(函数、变量同名)]()
+  * [JS的解析过程]()
   * [函数curry]()
   * [setTimeOut 和 setInterval 浏览器even loop]
   * es6:
