@@ -14,12 +14,15 @@
     * string所有方法：字符串去重，具体应用
     * Date所有方法：一个月多少天
     * Math所有方法
+  * [setTimeOut、setInterval(event loop)]()
   * [对象继承N方法]()
   * [创建对象的N种方法]()
   * [创建函数的N种方法]()
   * [闭包]()
   * [this]()
+  * [prototype、_proto_]
   * [call，apply，callee，caller]()
+  * [JS作用域链、变量提升]()
   * [函数curry]()
   * [setTimeOut 和 setInterval 浏览器even loop]
   * es6:
@@ -27,8 +30,12 @@
   * [arrow function]()
   * [import export]()
   * DOM：
+    * [IE事件机制]()
     * [事件冒泡、事件捕获、事件target]()
     * [移动端事件和click延迟问题]()
+    * [增删改查]()
+    * [JS注册事件的几种方式]()
+    * []()
   * BOM：暂时未想到
   * [localstorage、seesionsorage、cookie]
   
@@ -38,6 +45,8 @@
  
  
 * CSS
+  * [重排、重汇]()
+  * [css3新增选择器]()
   * [两栏布局、双飞翼、圣杯]()
   * [清理浮动的N种方法]()
   * [BFC]()
@@ -45,7 +54,8 @@
   * [居中的N种方法]()
   * [loading小菊花]()
   * [1px边框]()
-  * [css3新增选择器]()
+  * [transform]()
+  * [inline元素浮动]()
   * [flex -> Grid]()
   * [选择器优先级]()
   * [viewport]()
@@ -57,8 +67,9 @@
 
 * 通信：
   * [http/tcp]()
-  * [http/https]()
-  * [状态码]()
+  * [http/https(运营商劫持)]()
+  * [304浏览器缓存]()
+  * [常见http状态码]()
   * [ajax(promise)，fetch]()
   * [node superAgent]()
   * [cookie、seesion]()
@@ -68,11 +79,12 @@
 * 算法与数据结构:
   * [五种排序：冒泡、插入、选择(堆排序)、归并、快排](https://github.com/AllenYangFly/codeAnywhere/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%8E%92%E5%BA%8F.js)
   * [快排稳定化]()
-  * [去重]()
+  * [数组去重]()
   * [查找]()
   * [JS实现链表，栈，队列，二插树]()
-  * [二叉树(反转)]()
+  * [二叉树遍历(反转)]()
   * [红黑树]()
+  * [深拷贝]()
 
 
 * 浏览器特性:
@@ -123,7 +135,7 @@
   
   
 * 杂篇:
+  * [前端性能优化]()
   * [单元测试]()
   * [node、react、vue中的单元测试]()
   * [答题路线]()
-  * []
