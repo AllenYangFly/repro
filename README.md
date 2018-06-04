@@ -72,7 +72,7 @@
 * 通信：
   * [http/tcp]()
   * [http/https(运营商劫持)]()
-  * [304浏览器缓存]()
+  * [304浏览器缓存](http://www.cnblogs.com/ziyunfei/archive/2012/11/17/2772729.html)
   * [常见http状态码]()
   * [ajax(promise)，fetch]()
   * [node superAgent]()
