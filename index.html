@@ -1,0 +1,67 @@
+<html>
+    <header>
+        <style>
+            .content {
+    overflow: hidden;
+    padding: 0 100px;
+}
+
+.middle {
+    position:relative;			
+    width: 100%;
+    float: left;
+    height: 80px;
+    background: green;
+}
+
+.left {
+    position:relative;
+    width: 100px;
+    float: left;
+    left:-100px;
+    height: 80px;
+    margin-left: -100%;
+    background: yellow;
+}
+
+.right {
+    position:relative;			
+    width: 100px;
+    float: left;
+    right:-100px;
+    height: 80px;
+    margin-left: -100px;
+    background: pink
+}
+            </style>
+    </header>
+    <body>
+        <section class="content">
+            <div class="middle"></div>
+            <div class="left"></div>
+            <div class="right"></div>
+        </section>
+        <script>
+            const curry = fn => {
+                if (fn.length <= 1) return fn;
+
+                const generator = (args, rest) => {
+                    return (
+                    !rest
+                    ? fn(...args)
+                    : arg => generator([...args, arg], rest - 1)
+                )};
+
+                return generator([], fn.length);
+            };
+
+            const log = (a, b, c) => {
+                console.log(a, b, c);
+            }; 
+
+            const curriedLog = curry(log);
+
+            curriedLog('a')('d')('d');
+        </script>
+    </body>
+</html>

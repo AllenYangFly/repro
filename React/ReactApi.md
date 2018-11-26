@@ -66,4 +66,20 @@ componentDidCatch(err, info) {
 }
 ```
 
+### Strict Mode
+
+作用类似于JS中的strict mode，只在开发模式中生效，对开发中存在的风险进行提示
+
+```
+    <div>
+        <React.StrictMode>
+            <App />
+        </<React.StrictMode>
+    </div>
+```
+
 ### hooks v16.7
+
+```
+    // 暂时放在timeLine里面，快学不动了~
+```
