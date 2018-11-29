@@ -4,7 +4,7 @@
 
 GET能被缓存，POST不能缓存 。
 
-restfu定义不同
+restful定义不同
 
 浏览器堆GET和POST的长度限制不同，一般GET不超过2K。
 
